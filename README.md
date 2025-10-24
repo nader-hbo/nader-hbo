@@ -21,7 +21,6 @@ I specialize in **AWS, Terraform/Terragrunt, Kubernetes, and CI/CD** — with ha
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-Infrastructure-blue?logo=terraform&style=for-the-badge)
 ![CloudFront](https://img.shields.io/badge/AWS-CloudFront-FF9900?logo=amazonaws&style=for-the-badge)
 ![ECS](https://img.shields.io/badge/AWS-ECS-232F3E?logo=amazon-ecs&style=for-the-badge)
-[![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 
 
 ### 🧱 Containers & Orchestration
@@ -41,8 +40,6 @@ I specialize in **AWS, Terraform/Terragrunt, Kubernetes, and CI/CD** — with ha
 ![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?logo=prometheus&style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?logo=grafana&style=for-the-badge)
 
-## 🏆 Achievements
-[![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 
 
 
